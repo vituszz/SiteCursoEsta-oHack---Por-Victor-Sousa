@@ -1,4 +1,4 @@
-// Script por Cel.Lep Tech
+// Script por Victor Sousa
 
 var myButtonModal = document.getElementById('myButtonModal')
 var myTextModal = document.getElementById('myTextModal')
